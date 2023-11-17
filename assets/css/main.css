@@ -1,0 +1,13 @@
+/* Global Variables */
+:root {
+    /* Main Palette (5 colours) */
+    --colour-buff: #edb687;
+    --colour-champagne-pink: #ffe2d1;
+    --colour-anitique-white: #fdefdc;
+    --colour-sage: #bac999;
+    --colour-olivine: #aac673;
+    
+    /* Font Colours */
+    --font-colour-white: white;
+    --font-colour-black: black;
+  }
